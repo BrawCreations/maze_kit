@@ -37,7 +37,7 @@
 
 <p> Now the Arduino development environment can talk to the Arduino board and program it!</p> 
 
-<p><li> So we are now ready for some code! To view the code required for the Bare Creations Maze Kit, click <a href="https://github.com/BrawCreations/maze_kit/blob/master/maze_kit.ino">here</a>. The file is called <strong>maze_kit.ino</strong>. This code will allow each of the potentiometers that you wired earlier to control the motion of a servo. The code also has comments to help you understand what each line of the program is doing.</li></p>
+<p><li> So we are now ready for some code! To view the code required for the Bare Creations Maze Kit, click <a href="https://github.com/BrawCreations/maze_kit/blob/master/maze_kit_code.ino">here</a>. The file is called <strong>maze_kit_code.ino</strong>. This code will allow each of the potentiometers that you wired earlier to control the motion of a servo. The code also has comments to help you understand what each line of the program is doing.</li></p>
 
 <p><li> Now that you are viewing the code, copy the whole file (from lines 1-60) by clicking and dragging your cursor to highight all of the code. Right click on the highlighted code and click 'Copy', or use the copy keyboard shortcut. This will be different for each operating system:</p>
 
